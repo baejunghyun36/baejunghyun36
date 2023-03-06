@@ -1,5 +1,5 @@
 
-👋 Hi, I’m 안망구
+👋 Hi, I’m 배정현
 
 <div align="center">
 
@@ -30,9 +30,8 @@
 SSAFY (Samsung) 2022.07 ~ <br>
   <br>
 
-  
 ## 👊🏼
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akdgns13)](https://solved.ac/akdgns13/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bae1004ki)](https://solved.ac/akdgns13/)
   <img src="http://mazandi.herokuapp.com/api?handle=akdgns13&theme=warm"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdgns12&show_icons=true&theme=radical)
 
