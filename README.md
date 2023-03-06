@@ -32,7 +32,7 @@ SSAFY (Samsung) 2022.07 ~ <br>
 
 ## 👊🏼
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bae1004ki)](https://solved.ac/akdgns13/)
-  <img src="http://mazandi.herokuapp.com/api?handle=akdgns13&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=bae1004ki&theme=warm"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdgns12&show_icons=true&theme=radical)
 
 
