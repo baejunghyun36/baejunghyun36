@@ -17,6 +17,8 @@
 <!—
 **bae1004ki/bae1004ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ㅗㅑ
+
 Here are some ideas to get you started:
 <!---
 bae1004ki/bae1004ki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
