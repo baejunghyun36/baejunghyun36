@@ -14,12 +14,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae1004ki&show_icons=true&theme=radical)
 
 </div>
-<!—
-**bae1004ki/bae1004ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-ㅗㅑ
 
-Here are some ideas to get you started:
+
 <!---
 bae1004ki/bae1004ki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
