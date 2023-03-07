@@ -1,7 +1,14 @@
 
 👋 Hi, I’m 배정현
 
-## 👊🏼
+
+
+
+
+<div align="center">
+  
+  
+  ## 👊🏼
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bae1004ki)](https://solved.ac/bae1004ki/)
   <img src="http://mazandi.herokuapp.com/api?handle=bae1004ki&theme=warm"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae1004ki&show_icons=true&theme=radical)
@@ -15,10 +22,6 @@ Here are some ideas to get you started:
 bae1004ki/bae1004ki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=200&section=header&text=Hello%20World%20!&fontSize=50&animation=scaleIn)
   
