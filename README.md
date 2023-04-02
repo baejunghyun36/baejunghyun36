@@ -3,7 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Junghyun%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20My%20Profile!&descAlignY=51&descAlign=81)
 </div>
 
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="300" height="300">
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 
