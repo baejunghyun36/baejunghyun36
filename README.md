@@ -51,28 +51,51 @@
 
 <br><br>
 
-  <div align="center">
+ <div align="center">
     🧮 Tier 🧮  <br><br>
     <img style="height:200px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bae1004ki&show_icons=true&theme=radical"> 
 </div> 
 
 
-
+<br><br>
   
-<br><br><br>
+  <div align="center">
+  <h4 align="center">  📽 활동 📽   <br><br>
+</div>
+
+ 
+  
 <!-- <div align="center">
-  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=baejunghyun36&&show_icons=true&theme=radical">
-  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baejunghyun36&layout=compact&theme=radical">
+
+| 기간 | 프로젝트/동아리 이름 | 역할 |
+| :---: | :---: | :---: |
+| 2021.03 ~ 2021.11 | 멋쟁이 사자처럼 | 동아리 개설 및 운영진 |
+| 2021.03 ~ 2021.12 | 스마트 쇼핑 카트 + 쓰쇼 앱 | 프로젝트 진행 |
+| 2021.09 ~ 2021.09 | 멋쟁이 사자처럼 연합 해커톤 | 참여 |
+| 2021.10 ~ 진행중 | 개발자 배씨 블로그 | 운영 |
+| 2022.04 ~ 2022.04 | FamilyStory | 프로젝트 진행 |
+| 2022.05 ~ 2022.05 | StudyWithUs | 프로젝트 진행 |
+| 2022.06 ~ 2022.06 | 물어바 | 프로젝트 진행 |
+| 2022.07 ~ 진행 중 | SSAFY 8 기 | 과정 진행 중 (서울 캠퍼스) |
+| 2023.01 ~ 2023.02 | 바꾸바꾸 | 프로젝트 진행 |
+| 2023.02 ~ 2023.03 | VODA | 프로젝트 진행 중 |
 
 </div> -->
 
-
-  
-  
-<br><br><br>
-
 <br>
+
+
+  
 <div align="center">
-    
+   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 </div>
+  
+  
+  
+<!--     
+<br><br><br>
+<div align="center">
+  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=baejunghyun36&&show_icons=true&theme=radical">
+  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baejunghyun36&layout=compact&theme=radical"> -->
+
