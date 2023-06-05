@@ -40,14 +40,40 @@
 <br><br><br>
 <p align="center">
 🛠 Stack 🛠
+ 
+  <br>
 
-![](https://img.shields.io/badge/Java-FFFFFF?logo=OpenJDK&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Spring-3B3E2E?logo=Spring&logoColor=9AD94F&style=plastic)
 ![](https://img.shields.io/badge/SpringBoot-3B3E2E?logo=SpringBoot&logoColor=9AD94F&style=plastic)
-![](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Github-white?logo=Github&logoColor=black&style=plastic)
-![](https://img.shields.io/badge/Linux-white?style=plastic&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/WebFlux-8FD600?style=plastic&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
+  
+![](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/docker-E0FFFF?logo=docker&logoColor=blue&style=plastic)
+![](https://img.shields.io/badge/Docker_Compose-2496ED?style=plastic&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Nginx-269539?style=plastic&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/Certbot-023046?style=plastic&logo=letsencrypt&logoColor=white)
+![](https://img.shields.io/badge/ELK_Stack-005571?style=plastic&logo=elasticstack&logoColor=white)
+![](https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white)
+
+![](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
+
+![](https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white)
+![](https://img.shields.io/badge/Gitlab-FCA121?style=plastic&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white)
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+
+
+
 
 <br><br>
 
