@@ -11,13 +11,13 @@
 
 <br><br>
 
+<!--
 <div align="center">
   <h4 align="center">📌 슬로건 📌 <br><br>
-  
   <h6>1️⃣ 꾸준히, 급하지 않게! </h6> 
   <h6>2️⃣ 경청하고, 최대한 공감하면서!</h6>
   <h6>3️⃣ 존중하고, 배려하면서!</h6> 
-</div>
+</div> -->
 
 
 <!-- <br>
@@ -29,12 +29,14 @@
 <h4 align="center">
 <br><br>
 <br>
-:cloud: SNS :cloud: <br>
+:cloud: About me :cloud: <br>
   
   <br>
 <a href="https://baebalja.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/bae1004kin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
-<a href="https://www.instagram.com/bae.3007/"><img src="https://img.shields.io/badge/instagram-F1C2FF.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.instagram.com/bae.3007/"/></a>
+<a href="https://www.canva.com/design/DAFvp3vtI08/TuqQzKb1nnQ0ujvV86byZQ/view?utm_content=DAFvp3vtI08&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img src="https://img.shields.io/badge/Portfolio-F1C2FF.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.canva.com/design/DAFvp3vtI08/TuqQzKb1nnQ0ujvV86byZQ/view?utm_content=DAFvp3vtI08&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/></a>
+
+<!-- <img src="https://img.shields.io/badge/bae1004kin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
+<a href="https://www.instagram.com/bae.3007/"><img src="https://img.shields.io/badge/instagram-F1C2FF.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.instagram.com/bae.3007/"/></a> -->
 
 
 <br><br><br>
@@ -86,7 +88,7 @@
 <br><br>
   
   <div align="center">
-  <h4 align="center">  📽 활동 📽   <br><br>
+  <h4 align="center">  📽 Activity 📽   <br><br>
 </div>
 
  
