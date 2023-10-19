@@ -33,7 +33,7 @@
   
   <br>
 <a href="https://baebalja.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="https://www.canva.com/design/DAFvp3vtI08/TuqQzKb1nnQ0ujvV86byZQ/view?utm_content=DAFvp3vtI08&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img src="https://img.shields.io/badge/Portfolio-F1C2FF.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.canva.com/design/DAFvp3vtI08/TuqQzKb1nnQ0ujvV86byZQ/view?utm_content=DAFvp3vtI08&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/></a>
+<!-- <a href="https://www.canva.com/design/DAFvp3vtI08/TuqQzKb1nnQ0ujvV86byZQ/view?utm_content=DAFvp3vtI08&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img src="https://img.shields.io/badge/Portfolio-F1C2FF.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.canva.com/design/DAFvp3vtI08/TuqQzKb1nnQ0ujvV86byZQ/view?utm_content=DAFvp3vtI08&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/></a> -->
 
 <!-- <img src="https://img.shields.io/badge/bae1004kin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
 <a href="https://www.instagram.com/bae.3007/"><img src="https://img.shields.io/badge/instagram-F1C2FF.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.instagram.com/bae.3007/"/></a> -->
