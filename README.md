@@ -81,9 +81,12 @@
 
  <div align="center">
     🧮 Tier 🧮  <br><br>
-    <img style="height:200px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bae1004ki&show_icons=true&theme=radical"> 
+<!--     <img style="height:200px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bae1004ki&show_icons=true&theme=radical">  -->
+
 </div> 
 
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bae1004ki)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=bae1004ki&theme=warm)
 
 <br><br>
   
