@@ -29,7 +29,7 @@
 <h4 align="center">
 <br><br>
 <br>
-:cloud: About me :cloud: <br>
+👋 About me 👋 <br>
   
   <br>
 <a href="https://baebalja.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Tistory&logoColor=white"/></a>
